@@ -1,6 +1,6 @@
-# Welcome to Frantic Bot
+# Welcome to NEIKOS BOT!
 
-This Bot is a WIP Project for the Frantic Clan discord server.
+This Bot is a WIP Project from Neiko!
 
 ## Commands
 
