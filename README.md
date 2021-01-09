@@ -1,6 +1,6 @@
-# Welcome to NEIKOS BOT!
+# Welcome to Frisk's BOT!
 
-This Bot is a WIP Project from Neiko!
+This Bot is a WIP Project from Frisk#1000!
 
 ## Commands
 
